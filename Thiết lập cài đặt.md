@@ -4,17 +4,17 @@ Docker Desktop là một ứng dụng dễ cài đặt giúp các nhà phát tri
 
 ### 1.1 Các tính năng
 
-***Dễ dàng cài đặt:*** Docker Desktop cung cấp quy trình cài đặt đơn giản, cho phép người dùng nhanh chóng thiết lập Docker trên máy tính của họ.
+**Dễ dàng cài đặt:** Docker Desktop cung cấp quy trình cài đặt đơn giản, cho phép người dùng nhanh chóng thiết lập Docker trên máy tính của họ.
 
-***Cập nhật tự động:*** Ứng dụng sẽ tự động cập nhật lên phiên bản mới nhất của Docker, đảm bảo môi trường của bạn luôn được cập nhật và bảo mật.
+**Cập nhật tự động:** Ứng dụng sẽ tự động cập nhật lên phiên bản mới nhất của Docker, đảm bảo môi trường của bạn luôn được cập nhật và bảo mật.
 
-***Tích hợp Docker Hub:*** Giao diện Docker Desktop cho phép dễ dàng truy cập Docker Hub, cho phép người dùng tìm, chia sẻ và quản lý các image Docker.
+**Tích hợp Docker Hub:** Giao diện Docker Desktop cho phép dễ dàng truy cập Docker Hub, cho phép người dùng tìm, chia sẻ và quản lý các image Docker.
 
-***Quản lý containers và services:*** Docker Desktop đơn giản hóa việc quản lý container và services với giao diện GUI thân thiện, cho phép người dùng giám sát, khởi động, dừng và xóa containers và services.
+**Quản lý containers và services:** Docker Desktop đơn giản hóa việc quản lý container và services với giao diện GUI thân thiện, cho phép người dùng giám sát, khởi động, dừng và xóa containers và services.
 
-***Tích hợp Kubernetes:*** Docker Desktop đi kèm với hỗ trợ Kubernetes tích hợp, có thể được kích hoạt chỉ bằng một cú nhấp chuột. Điều này làm cho việc phát triển, kiểm tra và chạy các ứng dụng Kubernetes cục bộ trở nên dễ dàng hơn.
+**Tích hợp Kubernetes:** Docker Desktop đi kèm với hỗ trợ Kubernetes tích hợp, có thể được kích hoạt chỉ bằng một cú nhấp chuột. Điều này làm cho việc phát triển, kiểm tra và chạy các ứng dụng Kubernetes cục bộ trở nên dễ dàng hơn.
 
-***Phân bổ tài nguyên:*** Docker Desktop cho phép người dùng cấu hình lượng tài nguyên (CPU, bộ nhớ và lưu trữ) được phân bổ cho containers và services.
+**Phân bổ tài nguyên:** Docker Desktop cho phép người dùng cấu hình lượng tài nguyên (CPU, bộ nhớ và lưu trữ) được phân bổ cho containers và services.
 
 ### 1.2 Cài đặt
 
