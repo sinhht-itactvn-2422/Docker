@@ -6,7 +6,7 @@ Namespaces là một trong những công nghệ cốt lõi mà Docker sử dụn
 
 ***Namespaces là gì?***: Trong kernel Linux, namespaces là một tính năng cho phép cô lập các tài nguyên hệ thống khác nhau, làm cho một tiến trình và các tiến trình con của nó có thể có một cái nhìn về một phần của hệ thống tách biệt với các tiến trình khác. Namespaces giúp tạo ra một lớp trừu tượng để giữ cho các tiến trình được container hóa tách biệt nhau và khỏi hệ thống chủ.
 
-Có một số loại namespaces trong Linux, bao gồm:
+**Có một số loại namespaces trong Linux, bao gồm**:
 
 * ***PID (Process IDs)***: Cô lập không gian số ID tiến trình, nghĩa là các tiến trình trong một container chỉ nhìn thấy các tiến trình của chính nó, không phải của hệ thống chủ hoặc các container khác.
 * ***Network (NET)***: Cung cấp cho mỗi container một cái nhìn riêng về ngăn xếp mạng, bao gồm các giao diện mạng, bảng định tuyến và các quy tắc tường lửa riêng.
